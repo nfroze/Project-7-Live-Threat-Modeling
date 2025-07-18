@@ -27,6 +27,6 @@ This analysis demonstrates how publicly available information could be weaponise
 
 ## Evidence
 
-[Click here](screenshots/tombola-winner-information.png) to see the live example of the exposed user data including usernames, profile photos, and win amounts.
+[Click here](evidence/tombola-winner-information.png) to see the live example of the exposed user data including usernames, profile photos, and win amounts.
 
 ---
