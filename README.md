@@ -25,4 +25,8 @@ Tombola's winners page publishes usernames and photos weekly, providing potentia
 
 This analysis demonstrates how publicly available information could be weaponised against customers, with practical recommendations for risk reduction.
 
+## Evidence
+
+[Click here](screenshots/tombola-winner-information.png) to see the live example of the exposed user data including usernames, profile photos, and win amounts.
+
 ---
