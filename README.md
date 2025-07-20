@@ -1,4 +1,4 @@
-# Tombola Winners Page Security Analysis
+## 🎯 Project 7: Tombola Threat Modeling Exercise
 
 ## Executive Summary
 
