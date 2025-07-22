@@ -1,12 +1,12 @@
-## 🎯 Project 7: Tombola Threat Modeling Exercise
+## 🎯 Project 7: Gaming Platform Threat Modeling Exercise
 
 ## Executive Summary
 
-Security analysis of public winner disclosure practices on tombolaarcade.co.uk that could enable targeted social engineering attacks against customers.
+Security analysis of public winner disclosure practices on a major UK online gaming platform that could enable targeted social engineering attacks against customers.
 
 ## The Issue
 
-Tombola's winners page publishes usernames and photos weekly, providing potential attackers with targeting data for social engineering attacks. Combined with information from public data breaches, this could enable sophisticated attacks that bypass technical controls.
+The platform's winners page publishes usernames and photos weekly, providing potential attackers with targeting data for social engineering attacks. Combined with information from public data breaches, this could enable sophisticated attacks that bypass technical controls.
 
 ## Key Findings
 
@@ -27,6 +27,6 @@ This analysis demonstrates how publicly available information could be weaponise
 
 ## Evidence
 
-[Click here](evidence/tombola-winner-information.png) to see the live example of the exposed user data including usernames, profile photos, and win amounts.
+[Click here](evidence/platform-winner-information.png) to see the live example of the exposed user data including usernames, profile photos, and win amounts.
 
 ---

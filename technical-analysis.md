@@ -2,7 +2,7 @@
 
 ## The Vulnerability
 
-**Currently exposed on tombolaarcade.co.uk/winners:**
+**Currently exposed on the platform's winners page:**
 - Usernames published weekly
 - Profile photos displayed
 - Win amounts visible
@@ -14,7 +14,7 @@ This publicly available information could enable criminals to identify and resea
 
 ```mermaid
 flowchart TD
-    A[tombolaarcade.co.uk/winners] -->|Public Access| B[Username<br/>Profile Photo<br/>Win Amount]
+    A[Platform Winners Page] -->|Public Access| B[Username<br/>Profile Photo<br/>Win Amount]
     B -->|OSINT Search| C[Public Breach Databases<br/>haveibeenpwned.com<br/>Historic Gaming Breaches]
     B -->|Image Search| D[Reverse Image Search<br/>Google/TinEye]
     C -->|Could Expose| E[Email Addresses<br/>Phone Numbers<br/>Password Patterns]

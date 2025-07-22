@@ -3,7 +3,7 @@
 ## Hypothetical Attack Demonstration
 
 ### Day 1: Intelligence Gathering
-**Morning** - Attacker visits tombolaarcade.co.uk/winners
+**Morning** - Attacker visits platform's winners page
 - Identifies recent high-value winner username + profile photo
 - Cross-references username in public breach databases
 - Uses reverse image search on profile photo
@@ -11,12 +11,12 @@
 - Estimated time: 30-60 minutes
 
 ### Day 2: Initial Contact
-**Morning** - Voicemail from spoofed number claiming to be "Tombola Support"
+**Morning** - Voicemail from spoofed number claiming to be "Platform Support"
 
 **Afternoon** - Phishing email arrives:
 ```
-From: security@tombola-support.com ❌ 
-(Real domain: support@tombola.co.uk ✅)
+From: security@platform-support.com ❌ 
+(Real domain: support@platform.co.uk ✅)
 
 Urgent: Suspicious account activity detected
 Your recent winnings have been temporarily frozen.

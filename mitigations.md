@@ -5,7 +5,7 @@
 **Privacy Quick Wins:**
 1. Remove all profile photos from winners page
 2. Replace real usernames with generic ones (Winner_12345, LuckyPlayer_678)
-3. Add prominent security warning: "Tombola will NEVER call asking for passwords"
+3. Add prominent security warning: "We will NEVER call asking for passwords"
 4. Randomise display order (not chronological by win date)
 5. Limit page to last 30 days of winners only
 6. Add CAPTCHA to prevent automated scraping
@@ -22,7 +22,7 @@
 **Customer Education**
 - Security awareness banner on login
 - Post-win security guidance
-- "Tombola will never call asking for passwords" messaging
+- "Platform will never call asking for passwords" messaging
 
 ## Phase 3: Long Term (Strategic Investment)
 
