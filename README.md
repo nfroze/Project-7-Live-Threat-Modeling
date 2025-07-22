@@ -24,9 +24,4 @@ The platform's winners page publishes usernames and photos weekly, providing pot
 ## Purpose
 
 This analysis demonstrates how publicly available information could be weaponised against customers, with practical recommendations for risk reduction.
-
-## Evidence
-
-[Click here](evidence/platform-winner-information.png) to see the live example of the exposed user data including usernames, profile photos, and win amounts.
-
 ---
