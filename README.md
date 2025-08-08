@@ -1,4 +1,4 @@
-## 🎯 Project 7: Gaming Platform Threat Modeling Exercise
+## 🎯 Project 7: Live Threat Modeling
 
 ## Executive Summary
 
