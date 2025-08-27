@@ -1,4 +1,4 @@
-## 🎯 Project 7: Live Threat Modeling
+## Project 7: Live Threat Modeling
 
 ## Executive Summary
 
