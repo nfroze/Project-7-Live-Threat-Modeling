@@ -1,28 +1,7 @@
-## Project 7: Live Threat Modeling
+# Project 7: Live Threat Modeling
 
-## Executive Summary
+Security analysis of gaming platform's winner disclosure practices. Demonstrated social engineering attack vectors using OSINT techniques and proposed privacy controls.
 
-Security analysis of public winner disclosure practices on a major UK online gaming platform that could enable targeted social engineering attacks against customers.
+## Technologies
 
-## The Issue
-
-The platform's winners page publishes usernames and photos weekly, providing potential attackers with targeting data for social engineering attacks. Combined with information from public data breaches, this could enable sophisticated attacks that bypass technical controls.
-
-## Key Findings
-
-- **Vulnerability**: Public winner data enables victim identification
-- **Attack Vector**: Social engineering targeting identified winners
-- **Risk**: Particularly affects elderly/vulnerable customers
-- **Mitigation**: Simple privacy controls can significantly reduce risk
-
-## Documents
-
-1. [`attack-scenario.md`](attack-scenario.md) - Demonstration of potential attack methodology
-2. [`technical-analysis.md`](technical-analysis.md) - Analysis of vulnerability and attack chain
-3. [`mitigations.md`](mitigations.md) - Recommended security improvements
-
-## Purpose
-
-This analysis demonstrates how publicly available information could be weaponised against customers, with practical recommendations for risk reduction.
-
----
+OSINT • Social Engineering • MITRE ATT&CK • Privacy Impact Assessment • Markdown Documentation
