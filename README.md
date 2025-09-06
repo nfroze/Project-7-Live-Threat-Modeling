@@ -5,3 +5,9 @@ Security analysis of gaming platform's winner disclosure practices. Demonstrated
 ## Technologies
 
 OSINT • Social Engineering • MITRE ATT&CK • Privacy Impact Assessment • Markdown Documentation
+
+## Documents
+
+- [Attack Scenario](attack-scenario.md)
+- [Technical Analysis](technical-analysis.md)
+- [Mitigations](mitigations.md)
